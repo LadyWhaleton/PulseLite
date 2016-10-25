@@ -1,0 +1,22 @@
+{
+  "name": "pulselite",
+  "homepage": "https://github.com/LadyWhaleton/PulseLite",
+  "authors": [
+    "Stephanie Tong <tong.stephanie_mylinh@yahoo.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "^1.1.1",
+    "angular-route": "^1.5.8"
+  }
+}
